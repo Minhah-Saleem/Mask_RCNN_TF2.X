@@ -74,6 +74,9 @@ TensorBoard is another great debugging and visualization tool. The model is conf
 
 ![](assets/detection_final.png)
 
+# Installation
+Create the environment 
+conda env create --name envname --file=mask_rcnn.yml
 
 # Training on MS COCO
 We're providing pre-trained weights for MS COCO to make it easier to start. You can
