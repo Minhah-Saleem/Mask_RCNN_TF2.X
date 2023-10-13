@@ -12,6 +12,7 @@ The repository includes:
 * ParallelModel class for multi-GPU training
 * Evaluation on MS COCO metrics (AP)
 * Example of training on your own dataset
+* Updated for generating coco format dataset using custom dataset
 
 
 The code is documented and designed to be easy to extend. If you use it in your research, please consider citing this repository (bibtex below). If you work on 3D vision, you might find our recently released [Matterport3D](https://matterport.com/blog/2017/09/20/announcing-matterport3d-research-dataset/) dataset useful as well.
